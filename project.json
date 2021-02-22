@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "collision",
+  "id": "e74a9138-50b3-4e08-bf27-bf6fcb57ae37",
+  "version": "2.4.3",
+  "isNew": false
+}
